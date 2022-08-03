@@ -1,0 +1,92 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.navbar-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+}
+.navbar-container img {
+  width: 100px;
+}
+.grow-list {
+  max-width: 60%;
+}
+.list {
+  list-style: none;
+  white-space: nowrap;
+}
+.list-item {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  display: inline;
+  margin-left: 2rem;
+}
+.button-group {
+  font-family: "Poppins", sans-serif;
+  white-space: nowrap;
+  margin-right: 2rem;
+}
+.nav-button {
+  padding: 0.8rem 2.5rem;
+  background-color: #2827cc;
+  color: #ffffff;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+/* Hero section goes here */
+
+.banner-container {
+  width: 100%;
+  margin: 0 auto;
+}
+.heading-text {
+  position: relative;
+  top: 5rem;
+  left: 5rem;
+  width: 40%;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 3rem;
+  color: #120e43;
+  line-height: 1.3;
+}
+.heading-text span {
+  color: #383cc1;
+}
+
+.description {
+  position: relative;
+  top: 7rem;
+  left: 5rem;
+  width: 35%;
+  font-family: "Poppins";
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.btn {
+  position: relative;
+  top: 10rem;
+  left: 5rem;
+}
+
+.banner-container {
+  position: relative;
+  width: 100%;
+}
+
+.banner-container img {
+  margin-top: 1rem;
+  max-width: 600px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
