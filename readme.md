@@ -23,4 +23,4 @@ In this project i have created a landing page from scratch. And i have learnt a 
 ![image](images/page.png)
 
 ## You can Preview it Live on Below Link :
-**[Live Link !]([[https://03-law-home-page.netlify.app/](https://04-seo-landing-page.netlify.app/)](https://04-seo-landing-page.netlify.app/))**
+**[Live Link !](https://03-law-home-page.netlify.app/](https://04-seo-landing-page.netlify.app/)](https://04-seo-landing-page.netlify.app/))**
