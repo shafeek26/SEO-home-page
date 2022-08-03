@@ -2,7 +2,7 @@
 
 **I'm passionate about opensource and want to become a Full Stack Developer.**
 
-# Project Name : SEO Landing Page !
+# Project Name : Crypto Landing Page !
 
 In this project i have created a landing page from scratch. And i have learnt a lot of things like how to position HTML elements using common CSS selectors,i have also learnt about positions mainly in this project.
 
